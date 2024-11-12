@@ -1,5 +1,5 @@
-# IGNACIO GONZALEZ-CORREA
+# IGNACIO GONZÁLEZ-CORREA
 
 ## Publications
 
-Desde la app *El Trimestre Economico* with Bernado Batiz-Lazo
+Desde la app *El Trimestre Económico* with Bernado Bátiz-Lazo
