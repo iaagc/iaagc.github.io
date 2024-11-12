@@ -10,6 +10,7 @@ Del telégrafo a la app: la evolución y el estado actual de los prestadores de 
 
 
 Teaching Assitant Experience: <details>
-           <summary>## Publications ##/summary>
-           <p>## World Economic History ##</p>
-         </details> 
+           <details>
+           <summary> ## Publications ## </summary>
+           <p> ## World Economic History ## </p>
+           </details> 
