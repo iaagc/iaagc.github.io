@@ -14,7 +14,7 @@ Fostering agriculture under the industrializing state: The Caja de Crédito Agra
 	
 A state-owned bank for small farmers in Chile, c. 1926-1953 ***Journal of Evolutionary Studies in Business*** **2022** with Manuel Llorca-Jaña: [DOI](https://doi.org/10.1344/jesb2021.2.j093)
 
-La Caja Nacional de Ahorros y la banca estatal: un caso exitoso de economía asociativa entre cajas financieras en Chile, c. 1920-1950 ***Áreas. Revista Internacional de Ciencias Sociales*** **2021** [DOI](https://doi.org/10.6018/arics.458911)
+La Caja Nacional de Ahorros y la banca estatal: un caso exitoso de economía asociativa entre cajas financieras en Chile, c. 1920-1950 ***Áreas. Revista Internacional de Ciencias Sociales*** **2021**: [DOI](https://doi.org/10.6018/arics.458911)
 
 La transformación en el uso de efectivo y pagos digitales durante la pandemia de la COVID-19 ***Papeles de Economía Española*** **2021** with Bernardo Bátiz-Lazo and Manuel Bautista-González: [LINK](https://www.funcas.es/wp-content/uploads/2021/12/PEE-170_Batiz.pdf)
 
