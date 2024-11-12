@@ -1,6 +1,9 @@
-# IGNACIO GONZÁLEZ-CORREA
+# IGNACIO GONZÁLEZ-CORREA #
 
-## Publications
+Markup : <details>
+           <summary>Title 1</summary>
+           <p>## Publications ##</p>
+         </details> 
 
 ____
 
