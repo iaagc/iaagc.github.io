@@ -9,8 +9,9 @@ Del telégrafo a la app: la evolución y el estado actual de los prestadores de 
 
 
 
-Teaching Assitant Experience: <details>
-           <details>
-           <summary> ## Publications ## </summary>
+## Teaching Assitant Experience ## 
+         
+           <UC Davis>
+           <summary> ## PWorld Economic History ## </summary>
            <p> ## World Economic History ## </p>
            </details> 
