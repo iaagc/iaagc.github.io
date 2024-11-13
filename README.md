@@ -21,7 +21,7 @@ La transformación en el uso de efectivo y pagos digitales durante la pandemia d
 Liderado con el ejemplo. El Programa Techos Solares Públicos (PTSP) en Chile ***Estudios Políticos y Estratégicos*** **2020** with Bastián Aros: [LINK](https://revistaepe.utem.cl/?p=1261)
 
 
-### Book chapters ###
+### Book Chapters ###
 ___
 
 Start-ups, Gender Disparities, and the Fintech Revolution in Latin America. In Montiel, O. and Almaraz, A. (eds.) ***The Emerald Handbook of Entrepreneurship in Latin America: Unleashing a millennial potential. Vol. II, Innovation and Entrepreneurship*** **2022** UK: Emerald Publishing, with Bernardo Bátiz-Lazo. [DOI]( https://doi.org/10.1108/978-1-80071-955-220221014)
