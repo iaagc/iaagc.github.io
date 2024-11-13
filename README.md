@@ -36,7 +36,7 @@ ___
 
 Manuel Llorca-Jaña y Rory M. Miller. Historia Económica de Chile desde la Independencia (2021) ***América Latina en la Historia Económica*** **2022** Santiago: RIL Editores: [DOI](https://doi.org/10.18232/20073496.1334)
 
-Bernardo Bátiz-Lazo. Cash and Dash: How ATMs and Computers Changed Banking (2018)***Perfiles Económicos**** **2020**  Oxford: Oxford University Press [DOI](https://doi.org/10.22370/rpe.2020.9.2446)
+Bernardo Bátiz-Lazo. Cash and Dash: How ATMs and Computers Changed Banking (2018) ***Perfiles Económicos*** **2020**  Oxford: Oxford University Press [DOI](https://doi.org/10.22370/rpe.2020.9.2446)
 
 
 _______
@@ -96,7 +96,7 @@ ____________
 
 “Start-ups, Gender Disparities, and the Fintech Revolution in Latin America”. CLADHE (Latin American Congress of Economic History), VII, Symposium No. 38. March 3, 2022
 
-“Women in Latin American Fintech”. ReWOMEN (Women of Management & Enterprise Network) online seminar series. June 6, 2021
+“Women in Latin American Fintech”. ReWOMEN (Women of Management & Enterprise Network), Online Seminar Series. June 6, 2021
 
 
 ____________
