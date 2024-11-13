@@ -62,8 +62,6 @@ Fall 2023 American Economic History - Colonial times to Civil War (Janine Wilson
 
 2016 Principles of Macroeconomics (Facundo Sepúlveda)
 
-2015 Principles of Microeconomics (Facundo Sepúlveda)
-
 2014-2015 World Economic History (Manuel Llorca-Jaña)
 
 
