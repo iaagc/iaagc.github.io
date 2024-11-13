@@ -34,18 +34,17 @@ Las trabajadoras de la banca estatal chilena durante la primera mitad del siglo 
 ### Book Reviews ###
 ___
 
-Manuel Llorca-Jaña y Rory M. Miller (2021). Historia Económica de Chile desde la Independencia. Santiago de Chile: RIL Editores ***América Latina en la Historia Económica*** **2022** [DOI](https://doi.org/10.18232/20073496.1334)
+Manuel Llorca-Jaña y Rory M. Miller (2021). Historia Económica de Chile desde la Independencia ***América Latina en la Historia Económica*** **2022** Santiago: RIL Editores: [DOI](https://doi.org/10.18232/20073496.1334)
 
-Bernardo Bátiz-Lazo. Cash and Dash: How ATMs and Computers Changed Banking. Editorial Oxford: Oxford University Press (2018) ***Perfiles Económicos**** **2020** [DOI](https://doi.org/10.22370/rpe.2020.9.2446)
+Bernardo Bátiz-Lazo. Cash and Dash: How ATMs and Computers Changed Banking.***Perfiles Económicos**** **2020**  Oxford: Oxford University Press (2018) [DOI](https://doi.org/10.22370/rpe.2020.9.2446)
 
 
 
 _______
 
-## Teaching Assitant Experience ## 
+## Contact ## 
  
-
-
+ignacio [dot] gc [at] proton [dot] me
 _________
 
 
