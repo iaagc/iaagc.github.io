@@ -46,17 +46,26 @@ _______
 
 *UC Davis*
 
-Winter, Spring 2024 World Economic History since the Industrial Revolution (Chris Meissner)	 
+Winter, Spring 2024 World Economic History since the Industrial Revolution (Chris Meissner)
+
 Fall 2022, Spring and Summer 2023 Intermediate Macroeconomics (Derek Stimel, Paul Bergin, Chris Meissner)
-Winter 2023 Principles of Microeconomics (Janine Wilson)	
-Fall 2023 American Economic History - Colonial times to Civil War (Janine Wilson)	
+
+Winter 2023 Principles of Microeconomics (Janine Wilson)
+
+Fall 2023 American Economic History - Colonial times to Civil War (Janine Wilson)
+
+
 
 *Universidad de Santiago de Chile*
 
 2019 Economic History of Chile (Claudio Robles-Ortiz)
-2016 Principles of Macroeconomics (Facundo Sepúlveda)	
-2015 Principles of Microeconomics (Facundo Sepúlveda)	
+
+2016 Principles of Macroeconomics (Facundo Sepúlveda)
+
+2015 Principles of Microeconomics (Facundo Sepúlveda)
+
 2014-2015 World Economic History (Manuel Llorca-Jaña)
+
 
 ____________
 
@@ -64,20 +73,20 @@ ____________
 
 *Universidad de Santiago de Chile*
 
-Spring 2022 World Economic History, MSc in Economic History, Department of Economics.
+Spring 2022 World Economic History, MSc in Economic History, Department of Economics
 	
-Fall 2021 Economic History of Chile (two sessions), MSc in Economic History, Department of Economics.
+Fall 2021 Economic History of Chile (two sessions), MSc in Economic History, Department of Economics
 
-Spring, Fall 2020 World Economic History, BSc in Economics.
+Spring, Fall 2020 World Economic History, BSc in Economics
 
-Spring 2020 Introduction to Economics, BSc in Economics.
+Spring 2020 Introduction to Economics, BSc in Economics
 
-Spring 2019 Principles of Macroeconomics, BSc in Economics.	
+Spring 2019 Principles of Macroeconomics, BSc in Economics
 
 
 *Universidad de Chile*
 
-Spring 2019, 2020, 2021 Notions of Economics, Department of Historical Sciences.
+Spring 2019, 2020, 2021 Notions of Economics, Department of Historical Sciences
 
 
 ____________
@@ -85,9 +94,9 @@ ____________
 
 ## Presentations ##
 
-“Start-ups, Gender Disparities, and the Fintech Revolution in Latin America”. CLADHE (Latin American Congress of Economic History), VII, Symposium No. 38. March 3, 2022.
+“Start-ups, Gender Disparities, and the Fintech Revolution in Latin America”. CLADHE (Latin American Congress of Economic History), VII, Symposium No. 38. March 3, 2022
 
-“Women in Latin American Fintech”. ReWOMEN (Women of Management & Enterprise Network) online seminar series. June 6, 2021.
+“Women in Latin American Fintech”. ReWOMEN (Women of Management & Enterprise Network) online seminar series. June 6, 2021
 
 
 ____________
